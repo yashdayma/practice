@@ -1,0 +1,21 @@
+{
+  "name": "y/practice",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Yash Dayma <daymayash51@gmail.com>",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "start": "./bin/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "http-errors": "^2.0.0",
+    "pino": "^8.19.0",
+    "pino-http": "^9.0.0",
+    "pino-pretty": "^10.3.1"
+  }
+}
